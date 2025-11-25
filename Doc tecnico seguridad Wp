@@ -1,0 +1,5 @@
+ # Documento tecnico de la practica de seguridad redactado en markdown
+
+  1.- Actualizar WordPress, plugins y temas
+Actualizamos en la pagina de wordpress (http://localhost/wordpress/wp-admin/index.php)
+Imagen--> ![imagen1.jpg](C:\xampp\htdocs\wordpress\wp-admin\images)
